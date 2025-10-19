@@ -1,0 +1,41 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 8.0.x
+      - name: Restore dependencies
+        run: dotnet restore ./Backend/Backend.sln
+      - name: Build
+        run: dotnet build ./Backend/Backend.sln --no-restore
+      - name: Test API
+        run: dotnet test ./Backend/API/API.csproj --no-build --verbosity normal
+      - name: Test Integration
+        run: dotnet test ./Backend/API.Test.Integration/API.Test.Integration.csproj --no-build --verbosity normal
+      - name: Test Unit
+        run: dotnet test ./Backend/API.Test.Unit/API.Test.Unit.csproj --no-build --verbosity normal
+  e2e:
+    runs-on: ubuntu-latest
+    needs: build-and-test
+    steps:
+      - uses: actions/checkout@v4
+      # Backend
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 8.0.x
+      - name: Publish Backend
+        run: dotnet publish ./Backend/Backend.csproj -c Release -o ${{ github.workspace }}/app/backend-publish
+      - name: Run Backend Service
+        run: |
+          nohup dotnet ${{ github.workspace }}/app/backend-publish/backend.dll --urls "http://localhost:5000" &
+          sleep 5 # wait for backend to start

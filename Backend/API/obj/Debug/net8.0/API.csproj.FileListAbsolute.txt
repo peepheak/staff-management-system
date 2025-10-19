@@ -1,0 +1,340 @@
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/appsettings.Development.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/appsettings.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/API
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/API.deps.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/API.runtimeconfig.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/API.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/API.pdb
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Asp.Versioning.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Asp.Versioning.Http.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/AutoMapper.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ClosedXML.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/EPPlus.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/EPPlus.Interfaces.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ExcelDataReader.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ExcelDataReader.DataSet.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ExcelNumberFormat.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Humanizer.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Irony.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/itextsharp.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/LazyCache.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/LazyCache.AspNetCore.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Npgsql.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/RPAX.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/RPAX_Excel_ClosedXML.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Scrutor.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Serilog.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/SixLabors.Fonts.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.IO.Packaging.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/System.Text.Json.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/XLParser.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.AssemblyInfoInputs.cache
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.AssemblyInfo.cs
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.csproj.CoreCompileInputs.cache
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets/msbuild.build.API.props
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/scopedcss/bundle/API.styles.css
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.csproj.Up2Date
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/refint/API.dll
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.pdb
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/API.genruntimeconfig.cache
+/Users/sophea/Documents/Personal/untitled folder/STAFF/API/obj/Debug/net8.0/ref/API.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/appsettings.Development.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/appsettings.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/API
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/API.deps.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/API.runtimeconfig.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/API.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/API.pdb
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Asp.Versioning.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Asp.Versioning.Http.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/AutoMapper.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/BouncyCastle.Crypto.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ClosedXML.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/DocumentFormat.OpenXml.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/EPPlus.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/EPPlus.Interfaces.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/EPPlus.System.Drawing.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ExcelDataReader.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ExcelDataReader.DataSet.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ExcelNumberFormat.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Humanizer.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Irony.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/itextsharp.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/LazyCache.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/LazyCache.AspNetCore.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Npgsql.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/RPAX.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/RPAX_Excel_ClosedXML.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Scrutor.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Serilog.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/SixLabors.Fonts.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.IO.Packaging.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/System.Text.Json.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/XLParser.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.csproj.AssemblyReference.cache
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.AssemblyInfoInputs.cache
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.AssemblyInfo.cs
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.csproj.CoreCompileInputs.cache
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets/msbuild.build.API.props
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/scopedcss/bundle/API.styles.css
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.csproj.Up2Date
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/refint/API.dll
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.pdb
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/API.genruntimeconfig.cache
+/Users/sophea/Documents/Personal/Staff-Management-System/Backend/API/obj/Debug/net8.0/ref/API.dll
