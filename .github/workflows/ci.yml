@@ -34,7 +34,7 @@ jobs:
         with:
           dotnet-version: 8.0.x
       - name: Publish Backend
-        run: dotnet publish ./Backend/Backend.csproj -c Release -o ${{ github.workspace }}/app/backend-publish
+        run: dotnet publish ./Backend/API/API.csproj -c Release -o ${{ github.workspace }}/app/backend-publish
       - name: Run Backend Service
         run: |
           nohup dotnet ${{ github.workspace }}/app/backend-publish/backend.dll --urls "http://localhost:5000" &
